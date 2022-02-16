@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning android development
+- 👯 I’m looking to collaborate on android projects
+- 💬 Ask me about Java, android
 
 <!--
 **IamBansal/IamBansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
