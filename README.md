@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning android development
+- 🌱 I’m a mobile application developer.
 - 👯 Looking to collaborate on android projects
-- 💬 Ask me about Java, Kotlin
+- 💬 Ask me about Java, Kotlin, Flutter
 
 <!--
 **IamBansal/IamBansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
